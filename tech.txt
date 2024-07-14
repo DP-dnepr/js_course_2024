@@ -1,0 +1,8 @@
+VS Code встановлення та налаштування ➤ Підготовка Visual Studio Code 2022 для веб розробки
+https://youtu.be/M-WeTRvLRtc?feature=shared
+
+✅VS Code - https://code.visualstudio.com/
+Для зручності радимо скористатись інструкцією -https://www.youtube.com/watch?v=M-WeTRvLRtc&t=92s 
+
+✅GIT - https://git-scm.com/
+Також скористайтесь відео "Як встановити GIT" -https://www.youtube.com/watch?v=b8g5AcyAji0&t=237s
